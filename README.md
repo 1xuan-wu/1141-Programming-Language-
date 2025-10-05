@@ -4,3 +4,4 @@
 - 姓名：吳易軒
 - 系級：科技系四年級
 - [HW1](https://colab.research.google.com/drive/1zZrTob2E5V65XgXWpTzXjIsTrLumiKOE?usp=sharing)
+- [HW2](https://colab.research.google.com/drive/1OLNSH1DOvpUrWowmudUTD6uXYk_rplwW?usp=sharing)
