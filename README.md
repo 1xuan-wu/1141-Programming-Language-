@@ -5,3 +5,4 @@
 - 系級：科技系四年級
 - [HW1](https://colab.research.google.com/drive/1zZrTob2E5V65XgXWpTzXjIsTrLumiKOE?usp=sharing)
 - [HW2](https://colab.research.google.com/drive/1OLNSH1DOvpUrWowmudUTD6uXYk_rplwW?usp=sharing)
+- [HW3](https://colab.research.google.com/drive/18lH07LFLmnLCjoJQ6tiy_HT9Kx_NyfH9?usp=sharing)
