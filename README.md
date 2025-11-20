@@ -10,3 +10,4 @@
 - [HW4](https://colab.research.google.com/drive/1rGv3bJglcB9gwMcGYxAtTts83lETt3aE?usp=sharing)
 - [HW5](https://colab.research.google.com/drive/1lCinZTB7VdKmHPw8d04LyX5noNvIXKYa?usp=sharing)
 - [HW6](https://colab.research.google.com/drive/1dTsuUz6qVVySPfUAhEpUKqEG00oZ4rEE?usp=sharing)
+- [114-1 PL 專題提案](https://youtu.be/KuejLrbSv7M)
